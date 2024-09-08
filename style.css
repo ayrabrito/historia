@@ -9,12 +9,14 @@ body {
     align-items: center;
     height: 700px;
     margin: 0;
+    font-size: 25px;
 }
 
 button {
     background-color: #a76b12;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
+    font-size: 20px;
 }
 
 .card.ativo{
